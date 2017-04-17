@@ -1,4 +1,4 @@
-Copyright (c) 2015—NOW Evgeniy Kramksakov
+Copyright (c) 2016 Evgeniy Kramksakov
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
@@ -29,7 +29,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ========================================================================================
 
 
-Copyright (c) 2015—Настоящее время. Евгений Крамсаков
+Copyright (c) 2016. Евгений Крамсаков
 Данная лицензия разрешает, безвозмездно, лицам, получившим копию данного
 программного обеспечения и сопутствующей документации (в дальнейшем
 именуемыми "Программное Обеспечение"), использовать Программное Обеспечение
