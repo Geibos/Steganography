@@ -24,8 +24,12 @@ int main() {
     do {
         printf("Choose action: \n1 - encoding;\n2 - decoding;\n3 - exit.\n");
         scanf("%d",&c);
-        if (c==1) coder();
-                if (c==2) decoder();
+        if (c==1) {
+            coder();
+        }
+        if (c==2) {
+            decoder();
+        }
     } while (c!=3);
     return 0;
 }
