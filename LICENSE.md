@@ -9,7 +9,7 @@ to do so, subject to the following conditions:
 When using the Software for the preparation of independent works, including but
 not limited to labs, assignments, homework, coursework and course projects,
 bachelor's work and diploma projects at the IBCS department of
-St. Petersburg Polytechnic University Peter the Great (SPbPU),
+Peter the Great Saint-Petersburg Polytechnic University (SPbPU),
 the above-mentioned copyright And these conditions must be included in all
 copies or significant parts of this Software.
 
